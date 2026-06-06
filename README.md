@@ -5,7 +5,9 @@
 ---
 
 ## 🌐 Live Demo
-[View on Vercel](https://elementum.vercel.app) <!-- Update this after deploying -->
+[View on Vercel](https://elementum-frontend-website-himanshu07ghosh.vercel.app/) <!-- Update this after deploying -->
+
+[Github Live Link](https://himanshu07ghosh.github.io/Elementum-Frontend-Website/)
 
 ---
 
@@ -42,7 +44,7 @@ elementum/
 ### Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/elementum.git
+   git clone https://himanshu07ghosh.github.io/Elementum-Frontend-Website/
    ```
 2. Open the folder:
    ```bash
@@ -84,5 +86,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-**Himanshu**
-- GitHub: [@your-username](https://github.com/your-username)
+**Himanshu Ghosh**
+- GitHub: [Himanshu Ghosh](https://github.com/himanshu07ghosh?tab=repositories)
