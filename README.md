@@ -11,6 +11,10 @@
 
 ---
 
+**Himanshu Ghosh**
+- GitHub: [Himanshu Ghosh](https://github.com/himanshu07ghosh?tab=repositories)
+- Vercel: [Himanshu Ghosh](https://vercel.com/himanshu07ghoshs-projects/elementum-frontend-website-himanshu07ghosh)
+
 ## 📌 About
 
 • Creative agency site for strategists & designers
@@ -88,3 +92,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Himanshu Ghosh**
 - GitHub: [Himanshu Ghosh](https://github.com/himanshu07ghosh?tab=repositories)
+- Vercel: [Himanshu Ghosh](https://vercel.com/himanshu07ghoshs-projects/elementum-frontend-website-himanshu07ghosh)
